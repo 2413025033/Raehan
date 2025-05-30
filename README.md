@@ -238,6 +238,37 @@
             <a href="https://youtu.be/t2WSDb2k0cc?si=YoxIX37ZqyZ99Oqv" target="_blank">Tonton Video</a>
           </p>
         </div>
+         <div class="card">
+          <img src="images/kuis1.png" alt="Cover Tugas Kuis 1">
+          <h3>KUIS 1</h3>
+          <p>
+            <a href="files/kuis_1.pdf">Buka File</a> |
+          </p>
+        </div>
+         <div class="card">
+          <img src="images/kuis2.png" alt="Cover Tugas Kuis 2">
+          <h3>KUIS 2</h3>
+          <p>
+            <a href="files/kuis_2.pdf">Buka File</a> |
+            <a href="https://drive.google.com/file/d/1SWpvqMXx5UAfJPqy1MOos-cT4dx-Az8w/view?usp=drivesdk" target="_blank">Tonton Video</a>
+          </p>
+        </div>
+         <div class="card">
+          <img src="images/kuis3.png" alt="Cover Tugas Kuis 3">
+          <h3>KUIS 3</h3>
+          <p>
+            <a href="files/kuis_3.pdf">Buka File</a> |
+            <a href="https://youtu.be/ww-RjN-CyoE?si=iZ7MhlrmlGGpKWBj" target="_blank">Tonton Video</a>
+          </p>
+        </div>
+        <div class="card">
+          <img src="images/kuis4.png" alt="Cover Tugas Kuis 4">
+          <h3>KUIS 4</h3>
+          <p>
+            <a href="files/kuis_4.pdf">Buka File</a> |
+            <a href="https://youtu.be/l3RtviFM7OI?si=bLECLYm4Ie1Y_pMN" target="_blank">Tonton Video</a>
+          </p>
+        </div>
       </div>
     </section>
 
